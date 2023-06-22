@@ -1,0 +1,5 @@
+# API configurations
+/config/default.json
+
+# Dependency directories
+node_modules/
