@@ -44,7 +44,6 @@ const SearchBar = ({suggestions, dispatchGetSuggestion}) => {
 };
 
 const mapStateToProps = (state) => {
-    console.log(state)
     return {
         suggestions: state.homeReducer.suggestions
     };
